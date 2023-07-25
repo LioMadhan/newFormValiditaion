@@ -1,0 +1,122 @@
+ <style>
+*{
+      margin: 0;
+}
+.linked-in{
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 30px;
+    color: blue;
+}
+.linked-in b{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+.validation{
+    width: 350px;
+    height: 500px;
+    margin-top:20px;
+    margin-left: 650px;
+    border: 4px solid whitesmoke ;
+    border-radius: 10px;
+    background-color:rgb(255, 250, 250);
+   
+}
+.validation h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.validation p{
+
+  margin-top: 0px;
+  margin-left: 15px;
+}
+.validation input{
+  width: 320px;
+  height:40px;
+  margin-top: 5px;
+  margin-left: 7px;
+  margin-bottom: 0px;
+  border-radius: 4px;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px;
+}
+.validation label{
+    text-align: center;
+}
+#demo{
+    margin-top: 0px;
+    color:red;
+}
+#demo1{
+    margin-top:0px ;
+    color:red;
+}
+#demo2{
+    margin-top: 0px;
+    color:red;
+}
+.validation small{
+  color: blue;
+  margin-left: 16px;
+  margin-top: 10px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+.sig{
+  width: 310px;
+  height:45px;
+  margin-top: 35px;
+  margin-left: 20px;
+  background-color: blue;
+  border-radius: 40px;
+  color:white
+}
+ 
+.validation h5{
+  text-align: center;
+  margin-top: 0px;
+}
+.ff{
+  background-color: white;
+  width: 310px;
+  height:45px;
+  margin-top: 35px;
+  margin-left: 20px;
+  border-radius: 40px;
+  color:black;
+  border: 1px solid black;
+
+}
+.join-now{
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 0px;
+}
+a{
+  text-decoration: none;
+  color: rgb(60, 60, 217);
+  font-weight: 700;
+  margin-top: 0px;
+}
+.footer{
+  margin-top: 40px;
+  display: flex;
+  word-spacing: 30px;
+  justify-content: space-around;
+}
+.footer small{
+  font-size: 17px;
+  color: black;
+  font-weight: 700;
+}
+.footer b{
+  font-size: 17px;
+  background-color: black;
+  color: white;
+  width:10px
+}
+        </style>
